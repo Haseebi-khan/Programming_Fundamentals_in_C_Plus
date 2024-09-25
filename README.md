@@ -16,6 +16,8 @@ The Contact Book App efficiently manages contact information, allowing users to 
 - **Dynamic and Static Typing:** Implemented in variable management for more flexible and efficient code.
 - **Comments:** To ensure code clarity and understanding.
 
+The project consists of two main files: the first file utilizes `fstream` for file handling operations, and the second file demonstrates the simple use of dynamic arrays and pointers for efficient memory management.
+
 ---
 
 <p align="center">
