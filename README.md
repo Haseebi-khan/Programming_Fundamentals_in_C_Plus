@@ -1,4 +1,4 @@
-# PF Project: Console-based Contact Book App
+# Console-based Contact Book App
 
 *This project is part of a comprehensive 14-week Programming Fundamentals (PF) course, involving assignments and weekly labs.*
 
