@@ -54,7 +54,7 @@ The **Contact Book App** consists of two main files:
 
 ## 🎯 Learning Outcomes
 
-Through this project, students:
+Through this project, I:
 
 - Gain hands-on experience with **file handling**, **dynamic memory management**, and **modular coding**.
 - Develop a strong understanding of programming fundamentals by applying them to a practical use case.
